@@ -43,7 +43,7 @@ function verificar() {
         }
       }
       res.style.margin = '10px'
-      res.innerHTML = ` Dectectamos um(a) ${genero} com ${idade} anos.`
+      res.innerHTML = ` Detectamos um(a) ${genero} com ${idade} anos.`
       res.appendChild(img) //adicionar um elemento
 }
 }
